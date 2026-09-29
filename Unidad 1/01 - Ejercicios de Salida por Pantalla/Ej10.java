@@ -1,4 +1,4 @@
-public class Main {
+public class Ej10 {
     public static void main(String[] args) {
         System.out.printf("\n\u001B[38;2;70;140;255m╔═══════════════════════════════════════════════╗\u001B[0m\n");
         System.out.printf("\u001B[38;2;70;140;255m║\u001B[0m\t\t\u001B[38;2;80;220;255mESTACIÓN ESPACIAL\u001B[0m\t\t\u001B[38;2;70;140;255m║\u001B[0m\n");

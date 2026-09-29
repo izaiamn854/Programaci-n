@@ -1,4 +1,4 @@
-public class Main {
+public class Ej08 {
     public static void main(String[] args) {
         System.out.println("\t\033[1mPAPELERIA JAVA\033[0m\n");
         System.out.println("-----------------------------------------\n");

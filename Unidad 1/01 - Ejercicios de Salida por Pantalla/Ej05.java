@@ -1,4 +1,4 @@
-public class Main {
+public class Ej05 {
     public static void main(String[] args) {
         System.out.println("\033[1m\t\tLunes\t\tMartes\t\tMiércoles\tJueves\t\tViernes\n\033[0m");
         System.out.println("\033[1m8:15 - 9:15\033[0m\t\033[30mSASP\033[0m\t\t\033[32mIPE I\033[0m\t\t\033[34mBADAT\033[0m\t\t\033[32mIPE I\033[0m\t\t\033[31mPROGR\033[0m\n");

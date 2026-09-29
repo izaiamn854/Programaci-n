@@ -1,4 +1,4 @@
-public class Main {
+public class Ej03 {
     public static void main(String[] args) {
         System.out.println("computer\tordenador");
         System.out.println("\nstudent\talumno/a");
